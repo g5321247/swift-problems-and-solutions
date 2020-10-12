@@ -13,4 +13,4 @@
 ## Tree
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
-(不熟)[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Swift](Tree/110.BalancedBinaryTree.swift)| Medium| O(n)| O(n)|
+(不熟)[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Swift](Tree/110.BalancedBinaryTree.swift)| Easy| O(n)| O(n)|
