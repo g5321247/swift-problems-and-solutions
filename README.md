@@ -14,3 +14,8 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 (不熟)[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Swift](Tree/110.BalancedBinaryTree.swift)| Easy| O(n)| O(n)|
+
+## Math
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Swift](Math/168.ExcelSheetColumnTitle.swift)| Easy| O(n)| O(1)|
