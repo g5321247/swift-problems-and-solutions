@@ -19,7 +19,7 @@
 ## LinkedList
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
-[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Swift](Tree/160.IntersectionofTwoLinkedLists.swift)| Easy| O(n + m)| O(1)|
+[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Swift](LinkedList/160.IntersectionofTwoLinkedLists.swift)| Easy| O(n + m)| O(1)|
 
 ## Math
 | Title | Solution | Difficulty | Time | Space |
