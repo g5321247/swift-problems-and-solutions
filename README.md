@@ -2,6 +2,7 @@
 
 ## Data Structures
 * [Array](#array)
+* [String](#string)
 * [Tree](#tree)
 * [LinkedList](#linkedlist)
 
@@ -10,6 +11,11 @@
 | ----- | -------- | ---------- | ---- | ----- |
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Swift](Array/209.MinimumSizeSubarraySum.swift)| Medium| O(n)| O(1)|
 [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Swift](Array/904.FruitIntoBaskets.swift)| Medium| O(n)| O(1)|
+
+## String
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Swift](String/424.LongestRepeatingCharacterReplacement.swift)| Medium| O(n)| O(1)|
 
 ## Tree
 | Title | Solution | Difficulty | Time | Space |
