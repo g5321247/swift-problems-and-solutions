@@ -32,4 +32,5 @@
 | ----- | -------- | ---------- | ---- | ----- |
 [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Swift](Math/168.ExcelSheetColumnTitle.swift)| Easy| O(n)| O(1)|
 [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Swift](Math/171.ExcelSheetColumnNumber.swift)| Easy| O(n)| O(1)|
+[172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Swift](Math/172.FactorialTrailingZeroes.swift)| Easy| O(log5 n)| O(1)|
 
