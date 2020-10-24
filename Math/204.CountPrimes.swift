@@ -11,12 +11,11 @@ import Foundation
 Tip:
 厄拉托西尼篩法
 ref:
- https://zh.wikipedia.org/wiki/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95*/
-/*
+ https://zh.wikipedia.org/wiki/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95
+
 Solution
 Time Complexity: O(N log log n)
 Space Complexity: O(N)
-
 */
 
 func countPrimes(_ n: Int) -> Int {
