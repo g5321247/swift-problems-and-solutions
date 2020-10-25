@@ -11,6 +11,8 @@
 | ----- | -------- | ---------- | ---- | ----- |
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Swift](Array/209.MinimumSizeSubarraySum.swift)| Medium| O(n)| O(1)|
 [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Swift](Array/904.FruitIntoBaskets.swift)| Medium| O(n)| O(1)|
+[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Swift](Array/118.Pascal'sTriangle.swift)| Easy| O(n2)| O(n2)|
+
 
 ## String
 | Title | Solution | Difficulty | Time | Space |
