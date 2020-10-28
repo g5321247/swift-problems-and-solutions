@@ -18,7 +18,7 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Swift](String/424.LongestRepeatingCharacterReplacement.swift)| Medium| O(n)| O(1)|
-[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Swift](String/290.WordPattern.swift)| Easy| O(n)| O(M)|
+[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Swift](String/290.WordPattern.swift)| Easy| O(n)| O(m)|
 
 ## Tree
 | Title | Solution | Difficulty | Time | Space |
