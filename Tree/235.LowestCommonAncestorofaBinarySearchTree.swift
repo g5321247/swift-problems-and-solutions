@@ -7,6 +7,10 @@
 
 import Foundation
 
+/*
+Time complexity: O(h) (h as Tree height)
+*/
+
 func lowestCommonAncestor(_ root: TreeNode?, _ p: TreeNode?, _ q: TreeNode?) -> TreeNode? {
     guard let pVal = p?.val, let qVal = q?.val else { return nil }
     var curr = root
