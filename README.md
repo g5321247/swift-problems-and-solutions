@@ -24,6 +24,7 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 (不熟)[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Swift](Tree/110.BalancedBinaryTree.swift)| Easy| O(n)| O(n)|
+[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/)|[Swift](Tree/235.LowestCommonAncestorofaBinarySearchTree.swift)| Easy| O(h)| O(1)|
 
 ## LinkedList
 | Title | Solution | Difficulty | Time | Space |
