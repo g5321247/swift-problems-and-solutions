@@ -43,4 +43,6 @@
 (不熟)[204. Count Primes](https://leetcode.com/problems/count-primes/)|[Swift](Math/204.CountPrimes.swift)| Easy| O(nlog log n)| O(n)|
 
 ## DP
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
 [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Swift](DP/416.PartitionEqualSubsetSum.swift)| Medium| O(mn)| O(m)|
