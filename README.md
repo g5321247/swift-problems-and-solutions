@@ -5,6 +5,8 @@
 * [String](#string)
 * [Tree](#tree)
 * [LinkedList](#linkedlist)
+* [Math](#math)
+* [DP](#dp)
 
 ## Array
 | Title | Solution | Difficulty | Time | Space |
@@ -40,3 +42,5 @@
 [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Swift](Math/172.FactorialTrailingZeroes.swift)| Easy| O(log5 n)| O(1)|
 (不熟)[204. Count Primes](https://leetcode.com/problems/count-primes/)|[Swift](Math/204.CountPrimes.swift)| Easy| O(nlog log n)| O(n)|
 
+## DP
+[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Swift](DP/416.PartitionEqualSubsetSum.swift)| Medium| O(mn)| O(m)|
