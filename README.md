@@ -15,6 +15,7 @@
 [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Swift](Array/904.FruitIntoBaskets.swift)| Medium| O(n)| O(1)|
 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Swift](Array/118.Pascal'sTriangle.swift)| Easy| O(n2)| O(n2)|
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Swift](Array/406.QueueReconstructionbyHeight.swift)| Medium| O(n2)| O(n)|
+[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Swift](Array/167.TwoSumII-Inputarrayissorted.swift)| Easy| O(n)| O(1)|
 
 ## String
 | Title | Solution | Difficulty | Time | Space |
