@@ -17,7 +17,7 @@
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Swift](Array/406.QueueReconstructionbyHeight.swift)| Medium| O(n2)| O(n)|
 [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Swift](Array/167.TwoSumII-Inputarrayissorted.swift)| Easy| O(n)| O(1)|
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Swift](Array/26.RemoveDuplicatesfromSortedArray.swift)| Easy| O(n)| O(1)|
-[27. Remove Element](https://leetcode.com/problems/remove-element/)|[Swift](Array/RemoveElement.swift)| Easy| O(n)| O(1)|
+[27. Remove Element](https://leetcode.com/problems/remove-element/)|[Swift](Array/27.RemoveElement.swift)| Easy| O(n)| O(1)|
 
 
 ## String
