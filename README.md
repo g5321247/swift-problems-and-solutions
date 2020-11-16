@@ -7,6 +7,7 @@
 * [LinkedList](#linkedlist)
 * [Math](#math)
 * [DP](#dp)
+* [Stack](#stack)
 
 ## Array
 | Title | Solution | Difficulty | Time | Space |
@@ -51,3 +52,8 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Swift](DP/416.PartitionEqualSubsetSum.swift)| Medium| O(mn)| O(m)|
+
+## Stack
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[394. Decode String](https://leetcode.com/problems/decode-string/)|[Swift](Stack/394.DecodeString.swift)| Medium| O(n)| O(n)|
