@@ -28,6 +28,7 @@
 [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Swift](String/424.LongestRepeatingCharacterReplacement.swift)| Medium| O(n)| O(1)|
 [290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Swift](String/290.WordPattern.swift)| Easy| O(n)| O(m)|
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Swift](String/76.MinimumWindowSubstring.swift)| Hard| O(S+T)| O(T)|
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Swift](String/49.GroupAnagrams.swift)| Medium| O(nk)| O(nk)|
 
 ## Tree
 | Title | Solution | Difficulty | Time | Space |
