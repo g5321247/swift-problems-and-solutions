@@ -8,6 +8,7 @@
 * [Math](#math)
 * [DP](#dp)
 * [Stack](#stack)
+* [Backtracking](#backtracking)
 
 ## Array
 | Title | Solution | Difficulty | Time | Space |
@@ -61,3 +62,8 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [394. Decode String](https://leetcode.com/problems/decode-string/)|[Swift](Stack/394.DecodeString.swift)| Medium| O(n)| O(n)|
+
+## Backtracking
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[79. Word Search](https://leetcode.com/problems/word-search/)|[Swift](Backtracking/79.WordSearch.swift)| Medium| O(mnl^4)| O(mn)|
