@@ -32,8 +32,6 @@ class Solution {
         // 被探尋過了
         guard board[row][column] != "0" else { return false }
         if index == word.count - 1 { return true }
-        // print(row, column, board.count, board[0].count)
-
 
         let curr = board[row][column]
         // 透過給 0 的方式紀錄被探尋，這樣就不用用額外的空間紀錄有沒有探尋過
