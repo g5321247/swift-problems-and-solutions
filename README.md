@@ -57,6 +57,7 @@
 | ----- | -------- | ---------- | ---- | ----- |
 [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Swift](DP/416.PartitionEqualSubsetSum.swift)| Medium| O(mn)| O(m)|
 [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Swift](DP/64.MinimumPathSum.swift)| Medium| O(mn)| O(1)|
+[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Swift](DP/96.UniqueBinarySearchTrees.swift)| Medium| O(n2)| O(n)|
 
 ## Stack
 | Title | Solution | Difficulty | Time | Space |
