@@ -7,7 +7,7 @@
 
 import Foundation
 
-// Time Complexity: O(n^2 + nlogn)
+// Time Complexity: O(n2)
 // Space Complexity: O(n)
 func threeSum(_ nums: [Int]) -> [[Int]] {
     let nums = nums.sorted { $0 < $1 }
