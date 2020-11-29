@@ -12,26 +12,45 @@ Time Complexity: O(MN)
 Space Complexity: O(MN)
 */
 
-func canPartition(_ nums: [Int]) -> Bool {
-    var sum = 0
+func numIslands(_ grid: [[Character]]) -> Int {
+    var count = 0
+    var grid = grid
 
-    for num in nums {
-        sum += num
-    }
-
-    if sum % 2 != 0 { return false }
-
-    let subSum = sum / 2
-    var dp = Array(repeating: false, count: subSum + 1)
-    dp[0] = true
-
-    for num in nums {
-        var i = subSum
-        while i >= num {
-            dp[i] = dp[i] || dp[i - num]
-            i -= 1
+    for row in 0 ..< grid.count {
+        for column in 0 ..< grid[0].count {
+            if grid[row][column] == "1" {
+                count += 1
+                dfs(&grid, x: row, y: column)             
+            }
         }
+
     }
 
-    return dp[subSum]
+    return count
 }
+
+func dfs(_ grid: inout [[Character]], x: Int, y: Int) {
+    guard x >= 0, x < grid.count else { return }
+    guard y >= 0, y < grid[0].count else { return } 
+    guard grid[x][y] != "0" else { return }
+
+    grid[x][y] = "0"
+    dfs(&grid, x: x + 1, y: y) 
+    dfs(&grid, x: x - 1, y: y) 
+    dfs(&grid, x: x, y: y + 1) 
+    dfs(&grid, x: x, y: y - 1)
+}
+
+/*
+test case
+["1"]
+["0"]
+[["1","1","1"]]
+[["1","0","1"]]
+[["1"],["1"],["1"]]
+[["1"],["0"],["1"]]
+[["1","1","1"],["1","1","1"],["1","1","1"]]
+[["1","1","1"],["1","0","0"],["0","1","1"]]
+[["0","1","0"],["1","1","0"],["0","0","1"]]
+
+*/
