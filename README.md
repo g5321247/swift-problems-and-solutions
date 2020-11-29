@@ -9,6 +9,7 @@
 * [DP](#dp)
 * [Stack](#stack)
 * [Backtracking](#backtracking)
+* [DFS](#dfs)
 
 ## Array
 | Title | Solution | Difficulty | Time | Space |
@@ -69,3 +70,8 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [79. Word Search](https://leetcode.com/problems/word-search/)|[Swift](Backtracking/79.WordSearch.swift)| Medium| O(mnl^4)| O(mn)|
+
+## DFS
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Swift](DFS/200.NumberofIslands.swift)| Medium| O(mn)| O(mn)|
