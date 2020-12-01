@@ -66,7 +66,7 @@
 ## Greedy
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
-[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Swift](Greedy/621.TaskScheduler.swift)| Medium| O(n)| O(1)|
+(不熟)[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Swift](Greedy/621.TaskScheduler.swift)| Medium| O(n)| O(1)|
 
 ## Stack
 | Title | Solution | Difficulty | Time | Space |
