@@ -11,6 +11,7 @@
 * [Stack](#stack)
 * [Backtracking](#backtracking)
 * [DFS](#dfs)
+* [Design](#design)
 
 ## Array
 | Title | Solution | Difficulty | Time | Space |
@@ -82,3 +83,8 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Swift](DFS/200.NumberofIslands.swift)| Medium| O(mn)| O(mn)|
+
+## Design
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+(不熟)[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Swift](Design/208.ImplementTrie(PrefixTree).swift)| Medium| O(n)| O(n)|
