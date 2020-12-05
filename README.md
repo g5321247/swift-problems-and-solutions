@@ -28,6 +28,7 @@
 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Swift](Array/977.SquaresofaSortedArray.swift)| Easy| O(n)| O(n)|
 [15. 3Sum](https://leetcode.com/problems/3sum/solution/)|[Swift](Array/15.3Sum.swift)| Medium| O(n2)| O(n)|
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Swift](Array/53.MaximumSubarray.swift)| Easy| O(n)| O(1)|
+[259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|[Swift](Array/259.3SumSmaller.swift)| Medium| O(n2)| O(n)|
 
 ## String
 | Title | Solution | Difficulty | Time | Space |
