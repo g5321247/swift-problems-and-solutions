@@ -78,6 +78,7 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [394. Decode String](https://leetcode.com/problems/decode-string/)|[Swift](Stack/394.DecodeString.swift)| Medium| O(n)| O(n)|
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Swift](Stack/20.ValidParentheses.swift)| Easy| O(n)| O(n)|
 
 ## Backtracking
 | Title | Solution | Difficulty | Time | Space |
