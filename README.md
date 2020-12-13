@@ -85,6 +85,7 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [79. Word Search](https://leetcode.com/problems/word-search/)|[Swift](Backtracking/79.WordSearch.swift)| Medium| O(mnl^4)| O(mn)|
+[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Swift](Backtracking/17.LetterCombinationsofaPhoneNumber.swift)| Medium| O(3^n * 4^m)| O(3^n * 4^m)|
 
 ## DFS
 | Title | Solution | Difficulty | Time | Space |
