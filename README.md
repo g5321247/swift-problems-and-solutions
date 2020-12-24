@@ -30,6 +30,8 @@
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Swift](Array/53.MaximumSubarray.swift)| Easy| O(n)| O(1)|
 [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|[Swift](Array/259.3SumSmaller.swift)| Medium| O(n2)| O(n)|
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Swift](Array/121.BestTimetoBuyandSellStock.swift)| Easy| O(n)| O(1)|
+[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Swift](Array/42.TrappingRainWater.swift)| Hard| O(n)| O(1)|
+
 
 ## String
 | Title | Solution | Difficulty | Time | Space |
