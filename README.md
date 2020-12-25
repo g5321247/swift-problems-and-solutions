@@ -102,3 +102,5 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 (不熟)[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Swift](Design/208.ImplementTrie(PrefixTree).swift)| Medium| O(n)| O(n)|
+(不熟)[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Swift](Design/146.LRUCache.swift)| Medium| O(1)| O(n)|
+
