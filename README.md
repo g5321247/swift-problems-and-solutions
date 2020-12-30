@@ -48,6 +48,8 @@
 (不熟)[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Swift](Tree/110.BalancedBinaryTree.swift)| Easy| O(n)| O(n)|
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/)|[Swift](Tree/235.LowestCommonAncestorofaBinarySearchTree.swift)| Easy| O(h)| O(1)|
 (不熟)[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Swift](Tree/105.ConstructBinaryTreefromPreorderandInorderTraversal.swift)| Medium| O(n)| O(n)|
+[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Swift](Tree/236.LowestCommonAncestorofaBinaryTree.swift)| Medium| O(n)| O(n)|
+
 
 ## LinkedList
 | Title | Solution | Difficulty | Time | Space |
