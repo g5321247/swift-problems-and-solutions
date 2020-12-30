@@ -32,6 +32,7 @@
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Swift](Array/121.BestTimetoBuyandSellStock.swift)| Easy| O(n)| O(1)|
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Swift](Array/42.TrappingRainWater.swift)| Hard| O(n)| O(1)|
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Swift](Array/56.MergeIntervals.swift)| Medium| O(nlogn)| O(n)|
+[57. Insert Interval](https://leetcode.com/problems/insert-interval/)|[Swift](Array/57.InsertInterval.swift)| Medium| O(n)| O(n)|
 
 
 ## String
