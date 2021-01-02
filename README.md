@@ -34,6 +34,7 @@
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Swift](Array/56.MergeIntervals.swift)| Medium| O(nlogn)| O(n)|
 [57. Insert Interval](https://leetcode.com/problems/insert-interval/)|[Swift](Array/57.InsertInterval.swift)| Medium| O(n)| O(n)|
 (不熟)[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Swift](Array/986.IntervalListIntersections.swift)| Medium| O(n + n)| O(m + n)|
+[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Swift](Array/252.MeetingRooms.swift)| Medium| O(nlogn)| O(n)|
 
 ## String
 | Title | Solution | Difficulty | Time | Space |
