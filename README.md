@@ -2,16 +2,17 @@
 
 ## Data Structures
 * [Array](#array)
-* [String](#string)
-* [Tree](#tree)
+* [Backtracking](#backtracking)
+* [Design](#design)
+* [DP](#dp)
+* [DFS](#dfs)
+* [Greedy](#greedy)
 * [LinkedList](#linkedlist)
 * [Math](#math)
-* [DP](#dp)
-* [Greedy](#greedy)
 * [Stack](#stack)
-* [Backtracking](#backtracking)
-* [DFS](#dfs)
-* [Design](#design)
+* [Sort](#sort)
+* [String](#string)
+* [Tree](#tree)
 
 ## Array
 | Title | Solution | Difficulty | Time | Space |
@@ -36,24 +37,35 @@
 [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Swift](Array/986.IntervalListIntersections.swift)| Medium| O(n + n)| O(m + n)|
 [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Swift](Array/252.MeetingRooms.swift)| Medium| O(nlogn)| O(n)|
 
-## String
+## Backtracking
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
-[424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Swift](String/424.LongestRepeatingCharacterReplacement.swift)| Medium| O(n)| O(1)|
-[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Swift](String/290.WordPattern.swift)| Easy| O(n)| O(m)|
-[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Swift](String/76.MinimumWindowSubstring.swift)| Hard| O(S+T)| O(T)|
-[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Swift](String/49.GroupAnagrams.swift)| Medium| O(nk)| O(nk)|
-[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Swift](String/647.PalindromicSubstrings.swift)| Medium| O(n^2)| O(1)|
+[79. Word Search](https://leetcode.com/problems/word-search/)|[Swift](Backtracking/79.WordSearch.swift)| Medium| O(mnl^4)| O(mn)|
+[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Swift](Backtracking/17.LetterCombinationsofaPhoneNumber.swift)| Medium| O(3^n * 4^m)| O(3^n * 4^m)|
 
-
-## Tree
+## Design
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
-[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Swift](Tree/110.BalancedBinaryTree.swift)| Easy| O(n)| O(n)|
-[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/)|[Swift](Tree/235.LowestCommonAncestorofaBinarySearchTree.swift)| Easy| O(h)| O(1)|
-[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Swift](Tree/105.ConstructBinaryTreefromPreorderandInorderTraversal.swift)| Medium| O(n)| O(n)|
-[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Swift](Tree/236.LowestCommonAncestorofaBinaryTree.swift)| Medium| O(n)| O(n)|
+[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Swift](Design/208.ImplementTrie(PrefixTree).swift)| Medium| O(n)| O(n)|
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Swift](Design/146.LRUCache.swift)| Medium| O(1)| O(n)|
 
+## DP
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Swift](DP/416.PartitionEqualSubsetSum.swift)| Medium| O(mn)| O(m)|
+[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Swift](DP/64.MinimumPathSum.swift)| Medium| O(mn)| O(1)|
+[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Swift](DP/96.UniqueBinarySearchTrees.swift)| Medium| O(n2)| O(n)|
+[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Swift](DP/309.BestTimetoBuyandSellStockwithCooldown.swift)| Medium| O(n)| O(1)|
+
+## DFS
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Swift](DFS/200.NumberofIslands.swift)| Medium| O(mn)| O(mn)|
+
+## Greedy
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Swift](Greedy/621.TaskScheduler.swift)| Medium| O(n)| O(1)|
 
 ## LinkedList
 | Title | Solution | Difficulty | Time | Space |
@@ -75,39 +87,31 @@
 [204. Count Primes](https://leetcode.com/problems/count-primes/)|[Swift](Math/204.CountPrimes.swift)| Easy| O(nlog log n)| O(n)|
 (時間複雜度很難算)[202. Happy Number](https://leetcode.com/problems/happy-number/)|[Swift](Math/202.HappyNumber.swift)| Easy| O(logn)| O(1)|
 
-## DP
-| Title | Solution | Difficulty | Time | Space |
-| ----- | -------- | ---------- | ---- | ----- |
-[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Swift](DP/416.PartitionEqualSubsetSum.swift)| Medium| O(mn)| O(m)|
-[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Swift](DP/64.MinimumPathSum.swift)| Medium| O(mn)| O(1)|
-[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Swift](DP/96.UniqueBinarySearchTrees.swift)| Medium| O(n2)| O(n)|
-[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Swift](DP/309.BestTimetoBuyandSellStockwithCooldown.swift)| Medium| O(n)| O(1)|
-
-## Greedy
-| Title | Solution | Difficulty | Time | Space |
-| ----- | -------- | ---------- | ---- | ----- |
-[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Swift](Greedy/621.TaskScheduler.swift)| Medium| O(n)| O(1)|
-
 ## Stack
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [394. Decode String](https://leetcode.com/problems/decode-string/)|[Swift](Stack/394.DecodeString.swift)| Medium| O(n)| O(n)|
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Swift](Stack/20.ValidParentheses.swift)| Easy| O(n)| O(n)|
 
-## Backtracking
+## Sort
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
-[79. Word Search](https://leetcode.com/problems/word-search/)|[Swift](Backtracking/79.WordSearch.swift)| Medium| O(mnl^4)| O(mn)|
-[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Swift](Backtracking/17.LetterCombinationsofaPhoneNumber.swift)| Medium| O(3^n * 4^m)| O(3^n * 4^m)|
+[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Swift](Sort/253.MeetingRoomsII.swift)| Medium| O(nlogn)| O(n)|
 
-## DFS
+## String
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
-[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Swift](DFS/200.NumberofIslands.swift)| Medium| O(mn)| O(mn)|
+[424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Swift](String/424.LongestRepeatingCharacterReplacement.swift)| Medium| O(n)| O(1)|
+[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Swift](String/290.WordPattern.swift)| Easy| O(n)| O(m)|
+[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Swift](String/76.MinimumWindowSubstring.swift)| Hard| O(S+T)| O(T)|
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Swift](String/49.GroupAnagrams.swift)| Medium| O(nk)| O(nk)|
+[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Swift](String/647.PalindromicSubstrings.swift)| Medium| O(n^2)| O(1)|
 
-## Design
+## Tree
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
-[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Swift](Design/208.ImplementTrie(PrefixTree).swift)| Medium| O(n)| O(n)|
-[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Swift](Design/146.LRUCache.swift)| Medium| O(1)| O(n)|
+[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Swift](Tree/110.BalancedBinaryTree.swift)| Easy| O(n)| O(n)|
+[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/)|[Swift](Tree/235.LowestCommonAncestorofaBinarySearchTree.swift)| Easy| O(h)| O(1)|
+[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Swift](Tree/105.ConstructBinaryTreefromPreorderandInorderTraversal.swift)| Medium| O(n)| O(n)|
+[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Swift](Tree/236.LowestCommonAncestorofaBinaryTree.swift)| Medium| O(n)| O(n)|
 
