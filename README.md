@@ -36,6 +36,8 @@
 [57. Insert Interval](https://leetcode.com/problems/insert-interval/)|[Swift](Array/57.InsertInterval.swift)| Medium| O(n)| O(n)|
 [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Swift](Array/986.IntervalListIntersections.swift)| Medium| O(n + n)| O(m + n)|
 [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Swift](Array/252.MeetingRooms.swift)| Medium| O(nlogn)| O(n)|
+[268. Missing Number](https://leetcode.com/problems/missing-number/)|[Swift](Array/268.MissingNumber.swift)| Easy | O(n)| O(1)|
+
 
 ## Backtracking
 | Title | Solution | Difficulty | Time | Space |
