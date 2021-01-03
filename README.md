@@ -66,6 +66,7 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Swift](Greedy/621.TaskScheduler.swift)| Medium| O(n)| O(1)|
+[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Swift](Greedy/435.Non-overlappingIntervals.swift)| Medium| O(nlogn)| O(1)|
 
 ## LinkedList
 | Title | Solution | Difficulty | Time | Space |
