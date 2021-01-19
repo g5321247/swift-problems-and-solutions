@@ -39,7 +39,7 @@
 [268. Missing Number](https://leetcode.com/problems/missing-number/)|[Swift](Array/268.MissingNumber.swift)| Easy | O(n)| O(1)|
 [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Swift](Array/448.FindAllNumbersDisappearedinanArray.swift)| Easy | O(n)| O(1)|
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Swift](Array/287.FindtheDuplicateNumber.swift)| Medium | O(n)| O(1)|
-
+[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Swift](Array/41.FirstMissingPositive.swift)| Hard | O(n)| O(1)|
 
 ## Backtracking
 | Title | Solution | Difficulty | Time | Space |
