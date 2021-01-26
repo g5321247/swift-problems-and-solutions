@@ -3,6 +3,7 @@
 ## Data Structures
 * [Array](#array)
 * [Backtracking](#backtracking)
+* [Bit Manipulation](#bitManipulation)
 * [Design](#design)
 * [DP](#dp)
 * [DFS](#dfs)
@@ -46,6 +47,11 @@
 | ----- | -------- | ---------- | ---- | ----- |
 [79. Word Search](https://leetcode.com/problems/word-search/)|[Swift](Backtracking/79.WordSearch.swift)| Medium| O(mnl^4)| O(mn)|
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Swift](Backtracking/17.LetterCombinationsofaPhoneNumber.swift)| Medium| O(3^n * 4^m)| O(3^n * 4^m)|
+
+## Bit Manipulation
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Swift](BitManipulation/421.MaximumXORofTwoNumbersinanArray.swift)| Medium| O(n)| O(1)|
 
 ## Design
 | Title | Solution | Difficulty | Time | Space |
