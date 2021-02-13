@@ -52,6 +52,7 @@
 ## BFS
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
+[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Swift](Tree/102.BinaryTreeLevelOrderTraversal.swift)| Medium| O(n)| O(n)|
 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Swift](BFS/103.BinaryTreeZigzagLevelOrderTraversal.swift)| Medium| O(n)| O(n)|
 
 ## Bit Manipulation
@@ -134,5 +135,4 @@
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/)|[Swift](Tree/235.LowestCommonAncestorofaBinarySearchTree.swift)| Easy| O(h)| O(1)|
 [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Swift](Tree/105.ConstructBinaryTreefromPreorderandInorderTraversal.swift)| Medium| O(n)| O(n)|
 [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Swift](Tree/236.LowestCommonAncestorofaBinaryTree.swift)| Medium| O(n)| O(n)|
-[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Swift](Tree/102.BinaryTreeLevelOrderTraversal.swift)| Medium| O(n)| O(n)|
 
