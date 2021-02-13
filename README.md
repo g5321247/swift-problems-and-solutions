@@ -3,6 +3,7 @@
 ## Data Structures
 * [Array](#array)
 * [Backtracking](#backtracking)
+* [BFS](#bfs)
 * [Bit Manipulation](#bitManipulation)
 * [Design](#design)
 * [DP](#dp)
