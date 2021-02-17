@@ -4,6 +4,7 @@
 * [Array](#array)
 * [Backtracking](#backtracking)
 * [BFS](#bfs)
+* [BinarySearch](#bfs)
 * [Bit Manipulation](#bitManipulation)
 * [Design](#design)
 * [DP](#dp)
@@ -57,6 +58,10 @@
 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Swift](BFS/103.BinaryTreeZigzagLevelOrderTraversal.swift)| Medium| O(n)| O(n)|
 [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Swift](BFS/515.FindLargestValueinEachTreeRow.swift)| Medium| O(n)| O(n)|
 
+## Binary Search
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Swift](BinarySearch/33.SearchinRotatedSortedArray.swift)| Medium| O(logn)| O(1)|
 
 ## Bit Manipulation
 | Title | Solution | Difficulty | Time | Space |
