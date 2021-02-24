@@ -152,4 +152,5 @@
 [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Swift](Tree/105.ConstructBinaryTreefromPreorderandInorderTraversal.swift)| Medium| O(n)| O(n)|
 [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Swift](Tree/236.LowestCommonAncestorofaBinaryTree.swift)| Medium| O(n)| O(n)|
 [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Swift](Tree/111.MinimumDepthofBinaryTree.swift)| Easy| O(n)| O(n)|
+[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Swift](Tree/98.ValidateBinarySearchTree.swift)| Medium | O(n)| O(n)|
 
