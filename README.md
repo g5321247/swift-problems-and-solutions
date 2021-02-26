@@ -143,6 +143,7 @@
 [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Swift](String/647.PalindromicSubstrings.swift)| Medium| O(n^2)| O(1)|
 [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Swift](String/451.SortCharactersByFrequency.swift)| Medium| O(n)| O(n)|
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Swift](String/763.PartitionLabels.swift)| Medium| O(n)| O(1)|
+[1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[Swift](String/1694.ReformatPhoneNumber.swift)| Easy| O(n)| O(n)|
 
 ## Tree
 | Title | Solution | Difficulty | Time | Space |
