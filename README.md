@@ -121,6 +121,7 @@
 [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Swift](Math/172.FactorialTrailingZeroes.swift)| Easy| O(log5 n)| O(1)|
 [204. Count Primes](https://leetcode.com/problems/count-primes/)|[Swift](Math/204.CountPrimes.swift)| Easy| O(nlog log n)| O(n)|
 (時間複雜度很難算)[202. Happy Number](https://leetcode.com/problems/happy-number/)|[Swift](Math/202.HappyNumber.swift)| Easy| O(logn)| O(1)|
+[50. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Swift](Math/50.Pow(x,n).swift)| Medium| O(log n)| O(1)|
 
 ## Stack
 | Title | Solution | Difficulty | Time | Space |
