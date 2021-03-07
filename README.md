@@ -122,6 +122,7 @@
 [204. Count Primes](https://leetcode.com/problems/count-primes/)|[Swift](Math/204.CountPrimes.swift)| Easy| O(nlog log n)| O(n)|
 (時間複雜度很難算)[202. Happy Number](https://leetcode.com/problems/happy-number/)|[Swift](Math/202.HappyNumber.swift)| Easy| O(logn)| O(1)|
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Swift](Math/50.Pow(x,n).swift)| Medium| O(log n)| O(1)|
+[338. Counting Bits](https://leetcode.com/problems/counting-bits/)|[Swift](Math/338.CountingBits.swift)| Medium| O(n)| O(n)|
 
 ## Stack
 | Title | Solution | Difficulty | Time | Space |
