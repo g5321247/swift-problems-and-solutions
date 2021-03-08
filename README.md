@@ -93,6 +93,8 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Swift](DFS/200.NumberofIslands.swift)| Medium| O(mn)| O(mn)|
+[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Swift](DFS/257.BinaryTreePaths.swift)| Easy| O(n)| O(n)|
+
 
 ## Greedy
 | Title | Solution | Difficulty | Time | Space |
