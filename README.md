@@ -152,6 +152,7 @@
 [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[Swift](String/1694.ReformatPhoneNumber.swift)| Easy| O(n)| O(n)|
 [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Swift](String/224.BasicCalculator.swift)| Hard| O(n)| O(1)|
 [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Swift](String/227.BasicCalculatorII.swift)| Medium| O(n)| O(1)|
+[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Swift](String/.125.ValidPalindrome.swift)| Easy| O(n)| O(1)|
 
 ## Tree
 | Title | Solution | Difficulty | Time | Space |
