@@ -95,7 +95,7 @@
 | ----- | -------- | ---------- | ---- | ----- |
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Swift](DFS/200.NumberofIslands.swift)| Medium| O(mn)| O(mn)|
 [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Swift](DFS/257.BinaryTreePaths.swift)| Easy| O(n)| O(n)|
-
+[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Swift](DFS/129.SumRoottoLeafNumbers.swift)| Medium| O(n)| O(h)|
 
 ## Greedy
 | Title | Solution | Difficulty | Time | Space |
