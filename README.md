@@ -105,6 +105,7 @@
 [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Swift](Greedy/621.TaskScheduler.swift)| Medium| O(n)| O(1)|
 [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Swift](Greedy/435.Non-overlappingIntervals.swift)| Medium| O(nlogn)| O(1)|
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Swift](Greedy/406.QueueReconstructionbyHeight.swift)| Medium| O(n^2)| O(n)|
+[Maximum Even Sum With K Number](https://www.geeksforgeeks.org/maximum-even-sum-subsequence-of-length-k/)|[Swift](Greedy/maximumEvenSumWithKNumber.swift)| Medium| O(nlogn)| O(n)|
 
 ## LinkedList
 | Title | Solution | Difficulty | Time | Space |
