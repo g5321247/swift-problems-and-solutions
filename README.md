@@ -48,6 +48,7 @@
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Swift](Array/73.SetMatrixZeroes.swift)| Medium | O(nm)| O(1)|
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Swift](Array/560.SubarraySumEqualsK.swift)| Medium | O(n)| O(n)|
 [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Swift](Array/349.IntersectionofTwoArrays.swift)| Easy | O(n)| O(n)|
+[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Swift](Array/128.LongestConsecutiveSequence.swift)| Hard | O(n)| O(n)|
 
 ## Backtracking
 | Title | Solution | Difficulty | Time | Space |
