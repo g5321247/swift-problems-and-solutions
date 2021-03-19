@@ -110,7 +110,7 @@
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Swift](Greedy/406.QueueReconstructionbyHeight.swift)| Medium| O(n^2)| O(n)|
 [Maximum Even Sum With K Number](https://www.geeksforgeeks.org/maximum-even-sum-subsequence-of-length-k/)|[Swift](Greedy/MaximumEvenSumWithKNumber.swift)| Medium| O(nlogn)| O(n)|
 
-## Greedy
+## Graph
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [133. Clone Graph](https://leetcode.com/problems/clone-graph/)|[Swift](Graph/133.CloneGraph.swift)| Medium| O(n + m)| O(n)|
