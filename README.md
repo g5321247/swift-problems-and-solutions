@@ -10,6 +10,7 @@
 * [DP](#dp)
 * [DFS](#dfs)
 * [Greedy](#greedy)
+* [Graph](#graph)
 * [LinkedList](#linkedlist)
 * [Math](#math)
 * [Stack](#stack)
@@ -90,6 +91,7 @@
 [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Swift](DP/309.BestTimetoBuyandSellStockwithCooldown.swift)| Medium| O(n)| O(1)|
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Swift](DP/152.MaximumProductSubarray.swift)| Medium| O(n)| O(1)|
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Swift](DP/91.DecodeWays.swift)| Medium| O(n)| O(1)|
+[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Swift](DP/279.PerfectSquares.swift)| Medium| O(n√n)| O(n)|
 
 ## DFS
 | Title | Solution | Difficulty | Time | Space |
@@ -107,6 +109,11 @@
 [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Swift](Greedy/435.Non-overlappingIntervals.swift)| Medium| O(nlogn)| O(1)|
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Swift](Greedy/406.QueueReconstructionbyHeight.swift)| Medium| O(n^2)| O(n)|
 [Maximum Even Sum With K Number](https://www.geeksforgeeks.org/maximum-even-sum-subsequence-of-length-k/)|[Swift](Greedy/MaximumEvenSumWithKNumber.swift)| Medium| O(nlogn)| O(n)|
+
+## Greedy
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[133. Clone Graph](https://leetcode.com/problems/clone-graph/)|[Swift](Graph/133.CloneGraph.swift)| Medium| O(n + m)| O(n)|
 
 ## LinkedList
 | Title | Solution | Difficulty | Time | Space |
