@@ -69,6 +69,8 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Swift](BinarySearch/33.SearchinRotatedSortedArray.swift)| Medium| O(logn)| O(1)|
+[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Swift](BinarySearch/153.FindMinimuminRotatedSortedArray.swift)| Medium| O(logn)| O(1)|
+
 
 ## Bit Manipulation
 | Title | Solution | Difficulty | Time | Space |
