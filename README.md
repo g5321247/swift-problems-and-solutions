@@ -50,6 +50,7 @@
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Swift](Array/560.SubarraySumEqualsK.swift)| Medium | O(n)| O(n)|
 [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Swift](Array/349.IntersectionofTwoArrays.swift)| Easy | O(n)| O(n)|
 [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Swift](Array/128.LongestConsecutiveSequence.swift)| Hard | O(n)| O(n)|
+[78. Subsets](https://leetcode.com/problems/subsets/)|[Swift](Array/78.Subsets.swift)| Medium| O(n * 2^n)| O(n * 2^n)|
 
 ## Backtracking
 | Title | Solution | Difficulty | Time | Space |
