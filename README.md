@@ -143,6 +143,8 @@
 (時間複雜度很難算)[202. Happy Number](https://leetcode.com/problems/happy-number/)|[Swift](Math/202.HappyNumber.swift)| Easy| O(logn)| O(1)|
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Swift](Math/50.Pow(x,n).swift)| Medium| O(log n)| O(1)|
 [338. Counting Bits](https://leetcode.com/problems/counting-bits/)|[Swift](Math/338.CountingBits.swift)| Medium| O(n)| O(n)|
+[1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Swift](Math/1823.FindtheWinneroftheCircularGame.swift)| Medium| O(n)| O(1)|
+
 
 ## Stack
 | Title | Solution | Difficulty | Time | Space |
