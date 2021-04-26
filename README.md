@@ -67,6 +67,8 @@
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Swift](Tree/102.BinaryTreeLevelOrderTraversal.swift)| Medium| O(n)| O(n)|
 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Swift](BFS/103.BinaryTreeZigzagLevelOrderTraversal.swift)| Medium| O(n)| O(n)|
 [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Swift](BFS/515.FindLargestValueinEachTreeRow.swift)| Medium| O(n)| O(n)|
+[515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Swift](BFS/515.FindLargestValueinEachTreeRow.swift)| Medium| O(n)| O(n)|
+[784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Swift](BFS/784.LetterCasePermutation.swift)| Medium| O(n * 2^n)| O(n * 2^n)|
 
 ## Binary Search
 | Title | Solution | Difficulty | Time | Space |
