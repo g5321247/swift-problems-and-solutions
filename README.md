@@ -75,7 +75,8 @@
 | ----- | -------- | ---------- | ---- | ----- |
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Swift](BinarySearch/33.SearchinRotatedSortedArray.swift)| Medium| O(logn)| O(1)|
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Swift](BinarySearch/153.FindMinimuminRotatedSortedArray.swift)| Medium| O(logn)| O(1)|
-
+[704. Binary Search](https://leetcode.com/problems/binary-search/)|[Swift](BinarySearch/704.BinarySearch.swift)| Easy| O(logn)| O(1)|
+[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Swift](BinarySearch/744.FindSmallestLetterGreaterThanTarget.swift)| Easy| O(logn)| O(1)|
 
 ## Bit Manipulation
 | Title | Solution | Difficulty | Time | Space |
