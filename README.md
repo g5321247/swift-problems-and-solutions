@@ -4,8 +4,8 @@
 * [Array](#array)
 * [Backtracking](#backtracking)
 * [BFS](#bfs)
-* [BinarySearch](#bfs)
-* [Bit Manipulation](#bitManipulation)
+* [BinarySearch](#binarysearch)
+* [BitManipulation](#bitmanipulation)
 * [Design](#design)
 * [DP](#dp)
 * [DFS](#dfs)
@@ -70,7 +70,7 @@
 [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Swift](BFS/515.FindLargestValueinEachTreeRow.swift)| Medium| O(n)| O(n)|
 [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Swift](BFS/784.LetterCasePermutation.swift)| Medium| O(n * 2^n)| O(n * 2^n)|
 
-## Binary Search
+## BinarySearch
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Swift](BinarySearch/33.SearchinRotatedSortedArray.swift)| Medium| O(logn)| O(1)|
@@ -80,7 +80,7 @@
 [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[Swift](BinarySearch/702.SearchinaSortedArrayofUnknownSize.swift)| Medium| O(logT)| O(1)|
 
 
-## Bit Manipulation
+## BitManipulation
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Swift](BitManipulation/421.MaximumXORofTwoNumbersinanArray.swift)| Medium| O(n)| O(1)|
