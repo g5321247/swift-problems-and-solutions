@@ -85,6 +85,7 @@
 | ----- | -------- | ---------- | ---- | ----- |
 [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Swift](BitManipulation/421.MaximumXORofTwoNumbersinanArray.swift)| Medium| O(n)| O(1)|
 [136. Single Number](https://leetcode.com/problems/single-number/)|[Swift](BitManipulation/136.SingleNumber.swift)| Easy| O(n)| O(1)|
+[260. Single Number III](https://leetcode.com/problems/single-number-iii/)|[Swift](BitManipulation/260.SingleNumberIII.swift)| Medium| O(n)| O(1)|
 
 
 ## Design
