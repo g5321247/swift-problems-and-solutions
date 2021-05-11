@@ -164,6 +164,8 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Swift](Sort/253.MeetingRoomsII.swift)| Medium| O(nlogn)| O(n)|
+[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)|[Swift](Sort/MergeSort.swift)| Medium| O(nlogn)| O(n)|
+
 
 ## String
 | Title | Solution | Difficulty | Time | Space |
