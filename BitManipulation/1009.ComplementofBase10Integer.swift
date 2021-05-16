@@ -8,8 +8,7 @@
 import Foundation
 
 /*
-因為最多只會有 32 個位數，所以最多只會跑 32 次
-Time Complexity: O(1)
+Time Complexity: O(logn)
 Space Complexity: O(1)
 */
 
