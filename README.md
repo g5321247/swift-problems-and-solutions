@@ -87,6 +87,8 @@
 [136. Single Number](https://leetcode.com/problems/single-number/)|[Swift](BitManipulation/136.SingleNumber.swift)| Easy| O(n)| O(1)|
 [260. Single Number III](https://leetcode.com/problems/single-number-iii/)|[Swift](BitManipulation/260.SingleNumberIII.swift)| Medium| O(n)| O(1)|
 [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Swift](BitManipulation/832.FlippinganImage.swift)| Easy| O(n^2)| O(1)|
+[1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Swift](BitManipulation/1009.ComplementofBase10Integer.swift)| Easy| O(logN)| O(1)|
+[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[Swift](BitManipulation/231.PowerofTwo.swift)| Easy| O(1)| O(1)|
 
 
 ## Design
