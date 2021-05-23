@@ -198,4 +198,5 @@
 [112. Path Sum](https://leetcode.com/problems/path-sum/)|[Swift](Tree/112.PathSum.swift)| Easy | O(n)| O(n)|
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Swift](Tree/113.PathSumII.swift)| Medium | O(n)| O(n)|
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Swift](Tree/124.BinaryTreeMaximumPathSum.swift)| Hard | O(n)| O(h)|
+[572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Swift](Tree/572.SubtreeofAnotherTree.swift)| Easy | O(max(m,n))| O(max(m,n))|
 
