@@ -52,7 +52,7 @@
 [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Swift](Array/128.LongestConsecutiveSequence.swift)| Hard | O(n)| O(n)|
 [78. Subsets](https://leetcode.com/problems/subsets/)|[Swift](Array/78.Subsets.swift)| Medium| O(n * 2^n)| O(n * 2^n)|
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/)|[Swift](Array/90.SubsetsII.swift)| Medium| O(n * 2^n)| O(n * 2^n)|
-Find Word |[Swift](Array/findWord.swift)| | O(n)| O(n)|
+[Find Word](https://www.glassdoor.com/Interview/Live-coding-with-15-min-time-limit-A-precedence-rule-is-given-as-P-E-which-means-that-letter-P-is-followed-direct-QTN_4121191.htm) |[Swift](Array/findWord.swift)| | O(n)| O(n)|
 
 
 ## Backtracking
