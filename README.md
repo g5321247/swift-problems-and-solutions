@@ -92,6 +92,7 @@
 [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Swift](BitManipulation/1009.ComplementofBase10Integer.swift)| Easy| O(logN)| O(1)|
 [231. Power of Two](https://leetcode.com/problems/power-of-two/)|[Swift](BitManipulation/231.PowerofTwo.swift)| Easy| O(1)| O(1)|
 [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Swift](BitManipulation/371.SumofTwoIntegers.swift)| Medium| O(1)| O(1)|
+[1371. Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)|[Swift](BitManipulation/1371.FindtheLongestSubstringContainingVowelsinEvenCounts.swift)| Medium| O(n)| O(1)|
 
 
 ## Design
