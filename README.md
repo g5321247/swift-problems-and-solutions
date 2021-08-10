@@ -9,6 +9,7 @@
 * [Design](#design)
 * [DP](#dp)
 * [DFS](#dfs)
+* [FenwickTree](#fenwicktree)
 * [Greedy](#greedy)
 * [Graph](#graph)
 * [LinkedList](#linkedlist)
@@ -125,6 +126,10 @@
 [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Swift](DFS/437.PathSumIII.swift)| Medium| O(n)| O(n)|
 [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Swift](DFS/417.PacificAtlanticWaterFlow.swift)| Medium| O(mn)| O(mn)|
 
+## FenwickTree
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Swift](FenwickTree/307.RangeSumQuery-Mutable.swift)| Medium| O(nlogn)| O(n)|
 
 ## Greedy
 | Title | Solution | Difficulty | Time | Space |
