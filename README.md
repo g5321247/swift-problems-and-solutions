@@ -12,6 +12,7 @@
 * [FenwickTree](#fenwicktree)
 * [Greedy](#greedy)
 * [Graph](#graph)
+* [Heap](#heap)
 * [LinkedList](#linkedlist)
 * [Math](#math)
 * [Stack](#stack)
@@ -143,6 +144,11 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [133. Clone Graph](https://leetcode.com/problems/clone-graph/)|[Swift](Graph/133.CloneGraph.swift)| Medium| O(n + m)| O(n)|
+
+## Heap
+| Title | Solution | Difficulty | Time | Space |
+| ----- | -------- | ---------- | ---- | ----- |
+[1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Swift](Heap/1167.MinimumCosttoConnectSticks.swift)| Medium| O(nlogn)| O(n)|
 
 ## LinkedList
 | Title | Solution | Difficulty | Time | Space |
