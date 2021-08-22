@@ -149,6 +149,8 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Swift](Heap/1167.MinimumCosttoConnectSticks.swift)| Medium| O(nlogn)| O(n)|
+[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Swift](Heap/347.TopKFrequentElements.swift)| Medium| O(n)| O(n)|
+
 
 ## LinkedList
 | Title | Solution | Difficulty | Time | Space |
