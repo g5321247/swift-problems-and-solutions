@@ -56,6 +56,7 @@
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/)|[Swift](Array/90.SubsetsII.swift)| Medium| O(n * 2^n)| O(n * 2^n)|
 [Find Word](https://www.glassdoor.com/Interview/Live-coding-with-15-min-time-limit-A-precedence-rule-is-given-as-P-E-which-means-that-letter-P-is-followed-direct-QTN_4121191.htm) |[Swift](Array/findWord.swift)| | O(n)| O(n)|
 [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Swift](Array/1089.DuplicateZeros.swift)| Easy| On)| O(1)|
+[1985. Find the Kth Largest Integer in the Array](https://leetcode.com/contest/weekly-contest-256/problems/find-the-kth-largest-integer-in-the-array/)|[Swift](Array/1985.FindtheKthLargestIntegerintheArray.swift)| Medium| Onlogn)| O(1)|
 
 
 ## Backtracking
