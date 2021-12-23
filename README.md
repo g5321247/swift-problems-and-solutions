@@ -185,6 +185,7 @@
 | ----- | -------- | ---------- | ---- | ----- |
 [394. Decode String](https://leetcode.com/problems/decode-string/)|[Swift](Stack/394.DecodeString.swift)| Medium| O(n)| O(n)|
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Swift](Stack/20.ValidParentheses.swift)| Easy| O(n)| O(n)|
+[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Swift](Stack/84.LargestRectangleinHistogram.swift)| Hard| O(n)| O(n)|
 
 ## Sort
 | Title | Solution | Difficulty | Time | Space |
