@@ -12,6 +12,8 @@ import Foundation
 // Space Complexity: O(N)
 
 /*
+
+ 456666
 test case:
  "3[a]2[bc]"
  ""
