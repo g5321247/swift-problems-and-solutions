@@ -117,6 +117,7 @@
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Swift](DP/152.MaximumProductSubarray.swift)| Medium| O(n)| O(1)|
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Swift](DP/91.DecodeWays.swift)| Medium| O(n)| O(1)|
 [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Swift](DP/279.PerfectSquares.swift)| Medium| O(n√n)| O(n)|
+[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Swift](DP/1143.LongestCommonSubsequence.swift)| Medium| O(nm)| O(nm)|
 
 ## DFS
 | Title | Solution | Difficulty | Time | Space |
