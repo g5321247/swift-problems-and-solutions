@@ -84,7 +84,7 @@
 [704. Binary Search](https://leetcode.com/problems/binary-search/)|[Swift](BinarySearch/704.BinarySearch.swift)| Easy| O(logn)| O(1)|
 [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Swift](BinarySearch/744.FindSmallestLetterGreaterThanTarget.swift)| Easy| O(logn)| O(1)|
 [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[Swift](BinarySearch/702.SearchinaSortedArrayofUnknownSize.swift)| Medium| O(logT)| O(1)|
-
+[2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)|[Swift](BinarySearch/2187.MinimumTimetoCompleteTrips.swift)| Medium| O(nlogD)| O(1)|
 
 ## BitManipulation
 | Title | Solution | Difficulty | Time | Space |
