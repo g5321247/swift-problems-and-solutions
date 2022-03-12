@@ -119,6 +119,7 @@
 [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Swift](DP/279.PerfectSquares.swift)| Medium| O(n√n)| O(n)|
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Swift](DP/1143.LongestCommonSubsequence.swift)| Medium| O(nm)| O(nm)|
 [322. Coin Change](https://leetcode.com/problems/coin-change/)|[Swift](DP/322.CoinChange.swift)| Medium| O(nm)| O(n)|
+[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Swift](DP/300.LongestIncreasingSubsequence.swift)| Medium| O(nlogn)| O(n)|
 
 ## DFS
 | Title | Solution | Difficulty | Time | Space |
