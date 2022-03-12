@@ -35,6 +35,7 @@ class Solution {
 }
 
 /*
+講解： https://www.youtube.com/watch?v=l2rCz7skAlk
 Patience sort solution
 Time Complexity: O(N^2)
 Space Complexity: O(N)
