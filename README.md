@@ -148,6 +148,8 @@
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
 [133. Clone Graph](https://leetcode.com/problems/clone-graph/)|[Swift](Graph/133.CloneGraph.swift)| Medium| O(n + m)| O(n)|
+[261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Swift](Graph/261.GraphValidTree.swift)| Medium| O(n)| O(1)|
+[269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Swift](Graph/269.AlienDictionary.swift)| Hard| O()| O()|
 
 ## Heap
 | Title | Solution | Difficulty | Time | Space |
@@ -212,6 +214,8 @@
 [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Swift](String/224.BasicCalculator.swift)| Hard| O(n)| O(1)|
 [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Swift](String/227.BasicCalculatorII.swift)| Medium| O(n)| O(1)|
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Swift](String/125.ValidPalindrome.swift)| Easy| O(n)| O(1)|
+[212. Word Search II](https://leetcode.com/problems/word-search-ii/)|[Swift](String/212.WordSearchII.swift)| Hard| O()| O()|
+[271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Swift](String/271.EncodeandDecodeStrings.swift)| Medium| O(n)| O(1)|
 
 ## Tree
 | Title | Solution | Difficulty | Time | Space |
