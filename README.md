@@ -85,6 +85,7 @@
 [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Swift](BinarySearch/744.FindSmallestLetterGreaterThanTarget.swift)| Easy| O(logn)| O(1)|
 [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[Swift](BinarySearch/702.SearchinaSortedArrayofUnknownSize.swift)| Medium| O(logT)| O(1)|
 [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)|[Swift](BinarySearch/2187.MinimumTimetoCompleteTrips.swift)| Medium| O(nlogD)| O(1)|
+[2226. Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)|[Swift](BinarySearch/2226.MaximumCandiesAllocatedtoKChildren.swift)| Medium| O(nlogD)| O(1)|
 
 ## BitManipulation
 | Title | Solution | Difficulty | Time | Space |
@@ -231,4 +232,6 @@
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Swift](Tree/113.PathSumII.swift)| Medium | O(n)| O(n)|
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Swift](Tree/124.BinaryTreeMaximumPathSum.swift)| Hard | O(n)| O(h)|
 [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Swift](Tree/572.SubtreeofAnotherTree.swift)| Easy | O(max(m,n))| O(max(m,n))|
+[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Swift](Tree/297.SerializeandDeserializeBinaryTree.swift)| Hard | O(n)| O(n)|
+
 
